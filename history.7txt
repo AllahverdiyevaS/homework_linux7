@@ -1,0 +1,10 @@
+   0 date > /tmp/shafayat.txt
+   1 cat /tmp/shafayat.txt
+   2 df -h / >> /tmp/shafayat.txt
+   3 cat /tmp/shafayat.txt
+   4 history | tail -5 >> /tmp/shafayat.txt
+   5 cat /proc/cpuinfo
+   6 grep -w AuthenticX86 /proc/cpuinfo >> /tmp/shafayat.txt
+   7 cat /tmp/shafayat.txt
+   8 vi /tmp/shafayat.txt
+   9 history > /tmp/history.7txt
